@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "console.table": "^0.10.0",
-    "dotenv": "^16.0.3",
-    "inquirer": "^9.1.2",
+    "console-table-printer": "^2.11.1",
+    "inquirer": "^8.2.4",
     "mysql2": "^2.3.3",
-    "save": "^2.9.0",
-    "table": "^6.8.0"
+    "nodemon": "^2.0.20"
   }
 }
